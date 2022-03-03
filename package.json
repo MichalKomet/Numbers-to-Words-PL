@@ -1,0 +1,19 @@
+{
+  "name": "numbers-to-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalKomet/Patryk-s-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalKomet/Patryk-s-task/issues"
+  },
+  "homepage": "https://github.com/MichalKomet/Patryk-s-task#readme"
+}
