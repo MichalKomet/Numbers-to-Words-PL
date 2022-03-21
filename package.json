@@ -2,7 +2,7 @@
   "name": "numbers-to-words",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "NumberToWordsPL.js",
   "scripts": {
     "test": "jest"
   },

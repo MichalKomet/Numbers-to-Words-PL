@@ -1,4 +1,4 @@
-const toNumber = require('../app');
+const toNumber = require('../NumberToWordsPL');
 
 test('It should translate one digit number', () => {
 	expect(toNumber(0)).toBe('zero')
