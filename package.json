@@ -1,5 +1,5 @@
 {
-  "name": "numbers-to-words-PL",
+  "name": "numbers-to-words-pl",
   "version": "1.0.0",
   "description": "",
   "main": "NumberToWordsPL.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichalKomet/Patryk-s-task.git"
+    "url": "git+https://github.com/MichalKomet/number-to-words-PL.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MichalKomet/Patryk-s-task/issues"
+    "url": "https://github.com/MichalKomet/number-to-words-PL/issues"
   },
-  "homepage": "https://github.com/MichalKomet/Patryk-s-task#readme",
+  "homepage": "https://github.com/MichalKomet/number-to-words-PL#readme",
   "devDependencies": {
     "jest": "^27.5.1"
   }
