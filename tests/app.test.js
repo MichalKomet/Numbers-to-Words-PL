@@ -1,4 +1,4 @@
-const toNumber = require('../app')('PL');
+const toNumber = require('../app');
 
 test('It should translate one digit number', () => {
 	expect(toNumber(2)).toBe('dwa')
