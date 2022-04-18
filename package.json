@@ -1,8 +1,8 @@
 {
   "name": "numbers-to-words-pl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "NumberToWordsPL.js",
+  "main": "NumbersToWordsPL.js",
   "scripts": {
     "test": "jest"
   },
